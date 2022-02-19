@@ -1,4 +1,4 @@
-# GitOps Foundations
+# GitOps Foundations ---Varun
 This is the repository for the LinkedIn Learning course GitOps Foundations. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![GitOps Foundations][lil-thumbnail-url] 
